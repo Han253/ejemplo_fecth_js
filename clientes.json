@@ -1,0 +1,23 @@
+[
+    {
+        "nombre":"pepito",
+        "apelido":"jaimez",
+        "saldo":500,
+        "puntaje":52.2,
+        "casado":true,
+        "estado":null,
+        "lista_habilidades":["karate","negociar","cocina"],
+        "mascota":{"nombre":"toby","peso":25}
+    },
+    {
+        "nombre":"juan",
+        "apelido":"miranda",
+        "saldo":2000,
+        "puntaje":85.9,
+        "casado":false,
+        "estado":"activo",
+        "lista_habilidades":[]
+    }
+]
+
+
